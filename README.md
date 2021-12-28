@@ -1,4 +1,4 @@
-# Today i learned
+# Today I learned
 
 ### 20211228 : OpenCV and GitHub @ T-Academy 
 
