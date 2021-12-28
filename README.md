@@ -8,3 +8,9 @@
 ### 2. OpenCV 프로그래밍 기초
 ### 3. 명함 검출과 인식
 ### 4. 딥러닝 활용과 얼굴 검출
+
+
+### 20211229 : GitHub Practice
+* list
+* property
+* class
