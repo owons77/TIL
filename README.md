@@ -29,7 +29,23 @@
 * git status
 * git log
 * git config --global user.name=""
-* 
+* git config --global user.email=""
+* git log
+* git diff
+* git add . # 연재 디렉토리 내용을 모두 올린다.
+* git restore --staged README.md
+* git commit # vi edit 상태가 됨
+* git log
+* git checkout 68f1e65
+* git log
+* git log --all
+* git checkout master # 버전 별 파일로 이동
+* git help
+
+* git remote add origin https://github.com/subinium/github_practice.gif
+* git push -u origin master
+* git remote -v # 연결 여부 확인
+
 
 ### ※ 참고
 * 문순득 : 정약전 기록 여송국 갔다옴.
